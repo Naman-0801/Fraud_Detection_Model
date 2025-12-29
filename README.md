@@ -23,10 +23,10 @@ The goal of this project is to build a machine learning model that can accuratel
 ## 🖥️ Application Screenshots
 
 ### 🔹 Streamlit User Interface
-![App Home](assets/Fraud_detection_home.png)
+![App Home](Assets/Fraud_detection_home.png)
 
 ### 🔹 Fraud Prediction Result
-![Prediction Result](assets/prediction_result.png)
+![Prediction Result](Assets/prediction_result.png)
 
 ---
 
