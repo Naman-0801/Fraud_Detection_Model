@@ -84,37 +84,39 @@
 
 **## 📂 Project Structure**
 
-**Project/**
 
-**├── Fraud-Detection-Streamlit/**
 
-**│ ├── Fraud\_detection.py**
+    **Project/**
 
-**│ └── Model/**
+    **├── Fraud-Detection-Streamlit/**
 
-**│ └── Fraud\_detection\_pipeline.pkl**
+    **│   ├── Fraud\_detection.py**
 
-**│**
+    **│   └── Model/**
 
-**├── NoteBook/**
+    **│       └── Fraud\_detection\_pipeline.pkl**
 
-**│ └── Analysis\_model.ipynb**
+    **│**
 
-**│**
+    **├── NoteBook/**
 
-**├── assets/**
+    **│   └── Analysis\_model.ipynb**
 
-**│ ├── Fraud\_detection\_home.png**
+    **│**
 
-**│ └── prediction\_result.png**
+    **├── assets/**
 
-**│**
+    **│   ├── Fraud\_detection\_home.png**
 
-**├── requirements.txt**
+    **│   └── prediction\_result.png**
 
-**├── README.md**
+    **│**
 
-**├── .gitignore**
+    **├── requirements.txt**
+
+    **├── README.md**
+
+    **├── .gitignore**
 
 
 
@@ -128,45 +130,59 @@
 
 **### 1️⃣ Clone the repository**
 
-**```bash**
 
-**git clone https://github.com/Naman-0801/Fraud\_Detection\_Model.git**
 
-**cd Project**
+    **git clone https://github.com/Naman-0801/Fraud\_Detection\_Model.git**
+
+    **cd Project**
 
 
 
 **### 2️⃣ Install dependencies**
 
-**pip install -r requirements.txt**
+
+
+    **pip install -r requirements.txt**
 
 
 
 **### 3️⃣ Run the Streamlit application**
 
-**streamlit run Fraud-Detection-Streamlit/Fraud\_detection.py**
+
+
+    **streamlit run Fraud-Detection-Streamlit/Fraud\_detection.py**
 
 
 
-**📁 Dataset**
+**The application will open automatically in your browser.**
 
 
 
-**The dataset used for training is not included in this repository due to size limitations.**
+**---**
 
 
 
-**Dataset source:**
+**## 📁 Dataset**
+
+**The dataset used for training is \*\*not included\*\* in this repository due to size limitations.**
+
+
+
+**Dataset source:**  
 
 **https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset**
 
 
 
-**👤 Author**
+**---**
 
 
 
-**Naman**
+**## 👤 Author**
+
+**\*\*Naman\*\***  
 
 **Aspiring Data Analyst / Data Scientist**
+
+
 
