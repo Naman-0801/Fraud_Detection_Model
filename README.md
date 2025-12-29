@@ -48,13 +48,13 @@
 
 **### 🔹 Streamlit User Interface**
 
-**!\[App Home](assets/Fraud\_detection\_home.png)**
+**!\[App Home](Assets/Fraud\_detection\_home.png)**
 
 
 
 **### 🔹 Fraud Prediction Result**
 
-**!\[Prediction Result](assets/prediction\_result.png)**
+**!\[Prediction Result](Assets/prediction\_result.png)**
 
 
 
